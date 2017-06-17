@@ -1,1 +1,1 @@
-./psexec.exe -s @hosts.txt -u WilliamCalcote -p 5up3rs3cr3t@8080 cmd /c "ipconfig" 
+./psexec.exe -s @hosts.txt -u <Username> -p <Password> cmd /c "ipconfig" 
